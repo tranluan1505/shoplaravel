@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("LSDeleteAllCommunityChannelCategories",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1];b.n;var c=[];return b.seq([function(a){return b.seq([function(a){return b.fe(b.db.table(182).fetch(),function(a){return a["delete"]()})},function(a){return b.fe(b.db.table(9).fetch([[[[0,20]]],"threadTypeLastActivityTimestampMs"]),function(a){return a["delete"]()})}])},function(a){return b.resolve(c)}])}e.exports=a}),null);

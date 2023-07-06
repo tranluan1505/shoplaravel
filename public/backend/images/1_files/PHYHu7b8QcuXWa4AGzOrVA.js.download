@@ -1,0 +1,5 @@
+;/*FB_PKG_DELIM*/
+
+__d("SPASMBConsentOptOutDialogRootNumPagesQuery$Parameters",["SPASMBConsentOptOutDialogRootNumPagesQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("SPASMBConsentOptOutDialogRootNumPagesQuery_facebookRelayOperation"),metadata:{},name:"SPASMBConsentOptOutDialogRootNumPagesQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("SPASMBConsentOptOutDialogRoot.entrypoint",["JSResourceForInteraction","SPASMBConsentOptOutDialogRootNumPagesQuery$Parameters"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(){return{queries:{numPages:{parameters:b("SPASMBConsentOptOutDialogRootNumPagesQuery$Parameters"),variables:{}}}}},root:c("JSResourceForInteraction")("SPASMBConsentOptOutDialogRoot.react").__setRef("SPASMBConsentOptOutDialogRoot.entrypoint")};g["default"]=a}),98);/*FB_PKG_DELIM*/
+__d("SPASMBConsentOptOutDialogRootNumPagesQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4351002018357254"}),null);
